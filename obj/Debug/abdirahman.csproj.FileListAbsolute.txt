@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\abdirahman\abdirahman\bin\Debug\abdirahman.exe.config
+C:\Users\HP\source\repos\abdirahman\abdirahman\bin\Debug\abdirahman.exe
+C:\Users\HP\source\repos\abdirahman\abdirahman\bin\Debug\abdirahman.pdb
+C:\Users\HP\source\repos\abdirahman\abdirahman\obj\Debug\abdirahman.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\abdirahman\abdirahman\obj\Debug\abdirahman.Properties.Resources.resources
+C:\Users\HP\source\repos\abdirahman\abdirahman\obj\Debug\abdirahman.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\abdirahman\abdirahman\obj\Debug\abdirahman.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\abdirahman\abdirahman\obj\Debug\abdirahman.exe
+C:\Users\HP\source\repos\abdirahman\abdirahman\obj\Debug\abdirahman.pdb
+C:\Users\HP\source\repos\abdirahman\abdirahman\obj\Debug\abdirahman.Form1.resources
